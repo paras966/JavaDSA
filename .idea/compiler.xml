@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="StringsCode" />
         <module name="Arrays" />
+        <module name="Recursion" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
