@@ -9,6 +9,7 @@
         <module name="StringsCode" />
         <module name="Arrays" />
         <module name="Recursion" />
+        <module name="Recursion_2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
